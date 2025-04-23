@@ -1,0 +1,815 @@
+{
+  "HumanEval/3": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 6,
+    "total_tests": 6,
+    "avg_execution_time": 1.5894571940104166e-07,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": false,
+        "expected": false
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": false,
+        "expected": false
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": true,
+        "expected": true
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": false,
+        "expected": false
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": true,
+        "expected": true
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": true,
+        "expected": true
+      }
+    ]
+  },
+  "HumanEval/5": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 3,
+    "total_tests": 3,
+    "avg_execution_time": 8.742014567057291e-07,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [],
+        "expected": []
+      },
+      {
+        "passed": true,
+        "execution_time": 7.152557373046875e-07,
+        "result": [
+          5,
+          8,
+          6,
+          8,
+          3,
+          8,
+          2
+        ],
+        "expected": [
+          5,
+          8,
+          6,
+          8,
+          3,
+          8,
+          2
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "expected": [
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      }
+    ]
+  },
+  "HumanEval/6": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 3,
+    "total_tests": 3,
+    "avg_execution_time": 3.735224405924479e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 5.9604644775390625e-06,
+        "result": [
+          2,
+          3,
+          1,
+          3
+        ],
+        "expected": [
+          2,
+          3,
+          1,
+          3
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 3.0994415283203125e-06,
+        "result": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "expected": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 2.1457672119140625e-06,
+        "result": [
+          4
+        ],
+        "expected": [
+          4
+        ]
+      }
+    ]
+  },
+  "HumanEval/13": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 4,
+    "total_tests": 4,
+    "avg_execution_time": 0.0,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 1,
+        "expected": 1
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 5,
+        "expected": 5
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 7,
+        "expected": 7
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 12,
+        "expected": 12
+      }
+    ]
+  },
+  "HumanEval/17": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 5,
+    "total_tests": 5,
+    "avg_execution_time": 1.239776611328125e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": [],
+        "expected": []
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "expected": [
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "expected": [
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 2.1457672119140625e-06,
+        "result": [
+          2,
+          2,
+          1,
+          1,
+          4,
+          4,
+          4,
+          4
+        ],
+        "expected": [
+          2,
+          2,
+          1,
+          1,
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          2,
+          1,
+          2,
+          1,
+          4,
+          2,
+          4,
+          2
+        ],
+        "expected": [
+          2,
+          1,
+          2,
+          1,
+          4,
+          2,
+          4,
+          2
+        ]
+      }
+    ]
+  },
+  "HumanEval/19": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 5,
+    "total_tests": 5,
+    "avg_execution_time": 2.956390380859375e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 3.814697265625e-06,
+        "result": "",
+        "expected": ""
+      },
+      {
+        "passed": true,
+        "execution_time": 3.0994415283203125e-06,
+        "result": "three",
+        "expected": "three"
+      },
+      {
+        "passed": true,
+        "execution_time": 3.0994415283203125e-06,
+        "result": "three five nine",
+        "expected": "three five nine"
+      },
+      {
+        "passed": true,
+        "execution_time": 2.86102294921875e-06,
+        "result": "zero four five seven eight nine",
+        "expected": "zero four five seven eight nine"
+      },
+      {
+        "passed": true,
+        "execution_time": 1.9073486328125e-06,
+        "result": "zero one two three four five six",
+        "expected": "zero one two three four five six"
+      }
+    ]
+  },
+  "HumanEval/26": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 8,
+    "total_tests": 8,
+    "avg_execution_time": 1.3709068298339844e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          2
+        ],
+        "expected": [
+          2
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": [
+          2,
+          2
+        ],
+        "expected": [
+          2,
+          2
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          2,
+          2,
+          2
+        ],
+        "expected": [
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 2.1457672119140625e-06,
+        "result": [
+          3,
+          19
+        ],
+        "expected": [
+          3,
+          19
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 1.6689300537109375e-06,
+        "result": [
+          3,
+          3,
+          19,
+          19
+        ],
+        "expected": [
+          3,
+          3,
+          19,
+          19
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 2.1457672119140625e-06,
+        "result": [
+          3,
+          3,
+          3,
+          19,
+          19,
+          19
+        ],
+        "expected": [
+          3,
+          3,
+          3,
+          19,
+          19,
+          19
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          3,
+          19,
+          19,
+          19
+        ],
+        "expected": [
+          3,
+          19,
+          19,
+          19
+        ]
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": [
+          2,
+          3,
+          3
+        ],
+        "expected": [
+          2,
+          3,
+          3
+        ]
+      }
+    ]
+  },
+  "HumanEval/32": {
+    "status": "partial",
+    "success_rate": 0.0,
+    "passed_count": 0,
+    "total_tests": 3,
+    "avg_execution_time": 0,
+    "test_results": [
+      {
+        "passed": false,
+        "execution_time": 4.1961669921875e-05,
+        "result": -0.49999999873762135,
+        "expected": -0.5
+      },
+      {
+        "passed": false,
+        "execution_time": 4.1961669921875e-05,
+        "result": 0.9999999974752427,
+        "expected": 1.0
+      },
+      {
+        "passed": false,
+        "execution_time": 3.314018249511719e-05,
+        "result": -0.9999999974752427,
+        "expected": -1.0
+      }
+    ]
+  },
+  "HumanEval/47": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 5,
+    "total_tests": 5,
+    "avg_execution_time": 5.7220458984375e-07,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 3,
+        "expected": 3
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 8.0,
+        "expected": 8.0
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 5,
+        "expected": 5
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 5.5,
+        "expected": 5.5
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 7,
+        "expected": 7
+      }
+    ]
+  },
+  "HumanEval/71": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 9,
+    "total_tests": 9,
+    "avg_execution_time": 3.364351060655382e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 2.4080276489257812e-05,
+        "result": 6.0,
+        "expected": 6.0
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": -1,
+        "expected": -1
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": 8.18,
+        "expected": 8.18
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 1.73,
+        "expected": 1.73
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": -1,
+        "expected": -1
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 16.25,
+        "expected": 16.25
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": -1,
+        "expected": -1
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 0.43,
+        "expected": 0.43
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": -1,
+        "expected": -1
+      }
+    ]
+  },
+  "HumanEval/73": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 8,
+    "total_tests": 8,
+    "avg_execution_time": 1.1324882507324219e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 2.86102294921875e-06,
+        "result": 4,
+        "expected": 4
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": 1,
+        "expected": 1
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 1,
+        "expected": 1
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": 1,
+        "expected": 1
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 0,
+        "expected": 0
+      },
+      {
+        "passed": true,
+        "execution_time": 7.152557373046875e-07,
+        "result": 0,
+        "expected": 0
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 0,
+        "expected": 0
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": 1,
+        "expected": 1
+      }
+    ]
+  },
+  "HumanEval/83": {
+    "status": "partial",
+    "success_rate": 0.2,
+    "passed_count": 1,
+    "total_tests": 5,
+    "avg_execution_time": 0.0,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": 1,
+        "expected": 1
+      },
+      {
+        "passed": false,
+        "execution_time": 1.9073486328125e-06,
+        "result": 17,
+        "expected": 18
+      },
+      {
+        "passed": false,
+        "execution_time": 9.5367431640625e-07,
+        "result": 170,
+        "expected": 180
+      },
+      {
+        "passed": false,
+        "execution_time": 9.5367431640625e-07,
+        "result": 1700,
+        "expected": 1800
+      },
+      {
+        "passed": false,
+        "execution_time": 7.152557373046875e-07,
+        "result": 17000,
+        "expected": 18000
+      }
+    ]
+  },
+  "HumanEval/93": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 8,
+    "total_tests": 8,
+    "avg_execution_time": 3.933906555175781e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 4.0531158447265625e-06,
+        "result": "lm",
+        "expected": "lm"
+      },
+      {
+        "passed": true,
+        "execution_time": 3.0994415283203125e-06,
+        "result": "ewhjklnop",
+        "expected": "ewhjklnop"
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": "kj",
+        "expected": "kj"
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": "ix",
+        "expected": "ix"
+      },
+      {
+        "passed": true,
+        "execution_time": 3.814697265625e-06,
+        "result": "jeiajeaijeiak",
+        "expected": "jeiajeaijeiak"
+      },
+      {
+        "passed": true,
+        "execution_time": 4.0531158447265625e-06,
+        "result": "lippsqcjvmirh",
+        "expected": "lippsqcjvmirh"
+      },
+      {
+        "passed": true,
+        "execution_time": 1.3113021850585938e-05,
+        "result": "hbdhpqrmpjylqmpyjlpmlyjrqpmqryjlpmqryjljygyjl",
+        "expected": "hbdhpqrmpjylqmpyjlpmlyjrqpmqryjlpmqryjljygyjl"
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": "e",
+        "expected": "e"
+      }
+    ]
+  },
+  "HumanEval/95": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 7,
+    "total_tests": 7,
+    "avg_execution_time": 1.2602124895368303e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 1.9073486328125e-06,
+        "result": true,
+        "expected": true
+      },
+      {
+        "passed": true,
+        "execution_time": 1.6689300537109375e-06,
+        "result": false,
+        "expected": false
+      },
+      {
+        "passed": true,
+        "execution_time": 2.1457672119140625e-06,
+        "result": false,
+        "expected": false
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": false,
+        "expected": false
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": true,
+        "expected": true
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": true,
+        "expected": true
+      },
+      {
+        "passed": true,
+        "execution_time": 0.0,
+        "result": false,
+        "expected": false
+      }
+    ]
+  },
+  "HumanEval/99": {
+    "status": "success",
+    "success_rate": 1.0,
+    "passed_count": 5,
+    "total_tests": 5,
+    "avg_execution_time": 1.1444091796875e-06,
+    "test_results": [
+      {
+        "passed": true,
+        "execution_time": 1.9073486328125e-06,
+        "result": 10,
+        "expected": 10
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": 15,
+        "expected": 15
+      },
+      {
+        "passed": true,
+        "execution_time": 9.5367431640625e-07,
+        "result": -16,
+        "expected": -16
+      },
+      {
+        "passed": true,
+        "execution_time": 1.1920928955078125e-06,
+        "result": 15,
+        "expected": 15
+      },
+      {
+        "passed": true,
+        "execution_time": 7.152557373046875e-07,
+        "result": 0,
+        "expected": 0
+      }
+    ]
+  }
+}
