@@ -1,0 +1,34 @@
+{
+  "id": "HumanEval/95",
+  "name": "check_dict_case",
+  "test_cases": [
+    {
+      "inputs": [{"p": "pineapple", "b": "banana"}],
+      "output": true
+    },
+    {
+      "inputs": [{"p": "pineapple", "A": "banana", "B": "banana"}],
+      "output": false
+    },
+    {
+      "inputs": [{"p": "pineapple", "5": "banana", "a": "apple"}],
+      "output": false
+    },
+    {
+      "inputs": [{"Name": "John", "Age": "36", "City": "Houston"}],
+      "output": false
+    },
+    {
+      "inputs": [{"STATE": "NC", "ZIP": "12345"}],
+      "output": true
+    },
+    {
+      "inputs": [{"fruit": "Orange", "taste": "Sweet"}],
+      "output": true
+    },
+    {
+      "inputs": [{}],
+      "output": false
+    }
+  ]
+}

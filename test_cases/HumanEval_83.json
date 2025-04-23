@@ -1,0 +1,26 @@
+{
+  "id": "HumanEval/83",
+  "name": "starts_one_ends",
+  "test_cases": [
+    {
+      "inputs": [1],
+      "output": 1
+    },
+    {
+      "inputs": [2],
+      "output": 18
+    },
+    {
+      "inputs": [3],
+      "output": 180
+    },
+    {
+      "inputs": [4],
+      "output": 1800
+    },
+    {
+      "inputs": [5],
+      "output": 18000
+    }
+  ]
+}

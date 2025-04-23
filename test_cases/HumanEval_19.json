@@ -1,0 +1,26 @@
+{
+  "id": "HumanEval/19",
+  "name": "sort_numbers",
+  "test_cases": [
+    {
+      "inputs": [""],
+      "output": ""
+    },
+    {
+      "inputs": ["three"],
+      "output": "three"
+    },
+    {
+      "inputs": ["three five nine"],
+      "output": "three five nine"
+    },
+    {
+      "inputs": ["five zero four seven nine eight"],
+      "output": "zero four five seven eight nine"
+    },
+    {
+      "inputs": ["six five four three two one zero"],
+      "output": "zero one two three four five six"
+    }
+  ]
+}

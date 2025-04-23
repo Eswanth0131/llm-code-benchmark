@@ -1,0 +1,22 @@
+{
+  "id": "HumanEval/13",
+  "name": "greatest_common_divisor",
+  "test_cases": [
+    {
+      "inputs": [3, 7],
+      "output": 1
+    },
+    {
+      "inputs": [10, 15],
+      "output": 5
+    },
+    {
+      "inputs": [49, 14],
+      "output": 7
+    },
+    {
+      "inputs": [144, 60],
+      "output": 12
+    }
+  ]
+}

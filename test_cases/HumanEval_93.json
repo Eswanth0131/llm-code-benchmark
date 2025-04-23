@@ -1,0 +1,38 @@
+{
+  "id": "HumanEval/93",
+  "name": "encode",
+  "test_cases": [
+    {
+      "inputs": ["hi"],
+      "output": "lm"
+    },
+    {
+      "inputs": ["asdfghjkl"],
+      "output": "ewhjklnop"
+    },
+    {
+      "inputs": ["gf"],
+      "output": "kj"
+    },
+    {
+      "inputs": ["et"],
+      "output": "ix"
+    },
+    {
+      "inputs": ["faewfawefaewg"],
+      "output": "jeiajeaijeiak"
+    },
+    {
+      "inputs": ["hellomyfriend"],
+      "output": "lippsqcjvmirh"
+    },
+    {
+      "inputs": ["dxzdlmnilfuhmilufhlihufnmlimnufhlimnufhfucufh"],
+      "output": "hbdhpqrmpjylqmpyjlpmlyjrqpmqryjlpmqryjljygyjl"
+    },
+    {
+      "inputs": ["a"],
+      "output": "e"
+    }
+  ]
+}

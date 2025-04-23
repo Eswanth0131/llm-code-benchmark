@@ -1,0 +1,26 @@
+{
+  "id": "HumanEval/99",
+  "name": "closest_integer",
+  "test_cases": [
+    {
+      "inputs": ["10"],
+      "output": 10
+    },
+    {
+      "inputs": ["14.5"],
+      "output": 15
+    },
+    {
+      "inputs": ["-15.5"],
+      "output": -16
+    },
+    {
+      "inputs": ["15.3"],
+      "output": 15
+    },
+    {
+      "inputs": ["0"],
+      "output": 0
+    }
+  ]
+}

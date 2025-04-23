@@ -1,0 +1,18 @@
+{
+  "id": "HumanEval/5",
+  "name": "intersperse",
+  "test_cases": [
+    {
+      "inputs": [[], 7],
+      "output": []
+    },
+    {
+      "inputs": [[5, 6, 3, 2], 8],
+      "output": [5, 8, 6, 8, 3, 8, 2]
+    },
+    {
+      "inputs": [[2, 2, 2], 2],
+      "output": [2, 2, 2, 2, 2]
+    }
+  ]
+}

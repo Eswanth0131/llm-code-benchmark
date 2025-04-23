@@ -1,0 +1,38 @@
+{
+  "id": "HumanEval/26",
+  "name": "factorize",
+  "test_cases": [
+    {
+      "inputs": [2],
+      "output": [2]
+    },
+    {
+      "inputs": [4],
+      "output": [2, 2]
+    },
+    {
+      "inputs": [8],
+      "output": [2, 2, 2]
+    },
+    {
+      "inputs": [57],
+      "output": [3, 19]
+    },
+    {
+      "inputs": [3249],
+      "output": [3, 3, 19, 19]
+    },
+    {
+      "inputs": [185193],
+      "output": [3, 3, 3, 19, 19, 19]
+    },
+    {
+      "inputs": [20577],
+      "output": [3, 19, 19, 19]
+    },
+    {
+      "inputs": [18],
+      "output": [2, 3, 3]
+    }
+  ]
+}
